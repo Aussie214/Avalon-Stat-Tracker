@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+    -fx-background-image: url("avalon.jpg");
+    width: 100%;
+    height: auto;
+    
+}
+#fancytext {
+    -fx-font: 20px Tahoma;
+    -fx-stroke: #DDDCDC;
+    -fx-color: #DDDCDC;
+    -fx-stroke-width: 100;
+}
+#boldtext {
+	-fx-font: 20px Tahoma;
+	-fx-stroke: #000205;
+	-fx-color: #000205;
+	-fx-stroke-width: 100;
+	-fx-font-weight: bold;
+}
